@@ -14,7 +14,7 @@
         "c": "Intellij Direct Environment",
         "d": "Intense Data Environment"
       },
-      "Die richtige Antwort ist": "B"
+      "Die richtige Antwort ist": "b"
     },
     
     {
