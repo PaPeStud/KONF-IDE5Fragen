@@ -1,6 +1,7 @@
 # KONF-IDE 5 Fragen zur IDE
 
-    * Hier meine ausgearbeiteten Fragen zur IDE:
+## 
+Hier meine ausgearbeiteten Fragen zur IDE:
 
 
 ```json
