@@ -1,5 +1,7 @@
 # KONF-IDE 5 Fragen zur IDE
 
+5 Multiple Choice Fragen zu IDE im JSON Format, dokumentiert als Markdown
+
 ## Hier meine ausgearbeiteten Fragen zur IDE:
 
 
@@ -37,7 +39,7 @@
       "a": "Taschenrechner",
       "b": "Steuerung für Lichtschalter",
       "c": "Hello World",
-      "d": "Datenabfrage aus AD"
+      "d": "Datenabfrage aus dem Active Diretory"
     },
     
     "Die richtige Antwort ist": "c"
@@ -60,9 +62,9 @@
         "a": "Software zu installieren",
         "b": "Dokumente umbenennen",
         "c": "Käfer zu zerquetschen",
-        "d": "Fehler finden"
+        "d": "Fehler im Code zu finden"
       },
-      "Die richtige Antwort ist": "b"
+      "Die richtige Antwort ist": "d"
     }  
   ]
 }
